@@ -20,7 +20,7 @@ _**Инструменты🔧**_
 
 ◾ *Test IT ◾ Ёжка ◾ Younote ◾ Miro*
 
-Итоговая работа: https://qa111-2.yonote.ru/share/ac6c0fb0-b645-44a0-9759-8a4771fd772e
+Итоговая работа: [qa111-2.yonote.ru](https://qa111-2.yonote.ru/share/ac6c0fb0-b645-44a0-9759-8a4771fd772e)
 
 ---
 
@@ -32,7 +32,8 @@ _**Инструменты🔧**_
 
 ◾ *GitHub ◾ VSC ◾ Yougile ◾ Chrome DevTools*
 
-Финальное задание: https://github.com/Ekaterina4ern/skypro_final_task.git
+Финальное задание: [github.com/Ekaterina4ern](https://github.com/Ekaterina4ern/skypro_final_task.git)
+
 
 ---
 
@@ -45,11 +46,11 @@ _**Инструменты🔧**_
 ◾ *Postman ◾ Swagger ◾ Mockoon ◾ XML в JMeter*
 
 Коллекция в Postman по  сервису YouGile
-https://drive.google.com/file/d/1CHAGapI9i2D827MM33NTXtnBzJFgfIn3/view?usp=drive_link
+[JSON на G.Диск](https://drive.google.com/file/d/1CHAGapI9i2D827MM33NTXtnBzJFgfIn3/view?usp=drive_link)
 
 
 Коллекция в Postman по Яндекм.Расписанию
-https://drive.google.com/file/d/1nvfPCvx7aZ4hlfNmJrmBidf7ZreCp8Ub/view?usp=drive_link
+[JSON на G.Диск](https://drive.google.com/file/d/1nvfPCvx7aZ4hlfNmJrmBidf7ZreCp8Ub/view?usp=drive_link)
 
 ---
 
